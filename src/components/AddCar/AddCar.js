@@ -17,7 +17,6 @@ const AddCar = () => {
             imageURL: imageURL
         }
         const url = `https://fast-garden-97783.herokuapp.com/addCar`;
-        console.log(carData);
         fetch(url, {
             method: 'POST',
             headers: {
@@ -33,7 +32,6 @@ const AddCar = () => {
     };
 
     const handleImageUpload = event => {
-        console.log(event.target.files[0]);
         const imageData = new FormData();
         imageData.set('key', '3fbd18749a02465de2e5cad61c40c47a');
         imageData.append('image', event.target.files[0]);

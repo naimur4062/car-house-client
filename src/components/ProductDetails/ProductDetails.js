@@ -4,6 +4,7 @@ import Edit from '../../images/edit.png';
 import Delete from '../../images/delete.png';
 
 const ProductDetails = (props) => {
+    console.log('success')
     const { _id, name, fuel, price } = props.product;
     const deleteProduct = id => {
         window.location.reload();
