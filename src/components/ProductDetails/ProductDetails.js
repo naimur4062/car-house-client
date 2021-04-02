@@ -7,7 +7,6 @@ const ProductDetails = (props) => {
     console.log('success')
     const { _id, name, fuel, price } = props.product;
     const deleteProduct = id => {
-        // window.location.reload();
        fetch(`https://fast-garden-97783.herokuapp.com/delete/${id}`, {
            method: 'DELETE'
        })
