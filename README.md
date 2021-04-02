@@ -8,6 +8,8 @@ The features coding:
 * Conditional rendering
 * props and destructuring
 
-The advantages of this site: You can buy any kind of car from this website. Just choose your car and click on buy now button......
+The advantages of this site: You can buy any kind of car from this website. Just go our site and choose your car and click on buy now button......
 
-# Thank You
+This is the project link (https://carhouse-f64ce.web.app/).
+
+Thank You

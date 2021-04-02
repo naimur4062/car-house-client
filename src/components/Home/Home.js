@@ -37,8 +37,4 @@ const Home = () => {
     );
 };
 
-//server side code: https://github.com/Porgramming-Hero-web-course/full-stack-server-naimur4062
-
-//client side code: 
-
 export default Home;
