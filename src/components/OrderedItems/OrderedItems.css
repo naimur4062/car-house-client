@@ -1,0 +1,11 @@
+
+.ordered-details{
+    color: #363958;
+}
+.ordered-products{
+    width: 200px;
+}
+.ordered-price, .ordered-date{
+    position: relative;
+    left: 15px;
+}

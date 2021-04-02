@@ -1,0 +1,13 @@
+.manage{
+    border-radius: 20px;
+    padding: 30px 40px 30px 40px;
+    width: 900px;
+}
+.manageDiv{
+    background-color: #f4fcfb;
+}
+.manage-heading{
+    background-color: #f5f6fa;
+    padding: 10px;
+    border-radius: 20px;
+}

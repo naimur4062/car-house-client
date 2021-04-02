@@ -1,0 +1,16 @@
+.description{
+    margin-top: 100px;
+}
+.heading, .product-details{
+    border-bottom: 1px solid lightgray;
+}
+.checkout-btn{
+    background-color: #ff6e40;
+    border: none;
+    width: 130px;
+    height: 60px;
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}

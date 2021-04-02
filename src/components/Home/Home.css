@@ -1,0 +1,44 @@
+.homeDiv{
+    background-color: #f4fcfb;
+}
+.home{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding-bottom: 120px;
+}
+.login-btn{
+    background-color: #ff6e40;
+    border: none;
+    width: 80px;
+    font-size: 15px;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 43px;
+}
+.forHeader p{
+    width: 150px;
+    font-size: 15px;
+    font-weight: 500;
+    color: black;
+    padding: 5px;
+    margin-top: 43px;
+}
+.home .spinner{
+    color: #ff6e40;
+    margin-left: 500px;
+    margin-top: 150px;
+}
+@media only screen and (max-width: 600px) {
+    .home{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .login-btn{
+        position: relative;
+        top: 65px;
+    }
+    .forHeader p{
+        position: relative;
+        top: 60px;
+    }
+}

@@ -1,0 +1,17 @@
+.name{
+    width: 200px;
+}
+.fuel, .cost{
+    position: relative;
+    right: 55px;
+}
+.cost{
+    position: relative;
+    right: 40px;
+}
+.update img{
+    width: 30px;
+}
+.update button{
+    border: none;
+}

@@ -1,0 +1,10 @@
+.order-title{
+    text-align: center;
+    color: #363958;
+}
+.ordered-heading{
+    border-bottom: 1px solid lightgray;
+}
+.ordered{
+    border-radius: 20px;
+}

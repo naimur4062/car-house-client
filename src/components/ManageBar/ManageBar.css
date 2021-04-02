@@ -1,0 +1,25 @@
+.manageBar{
+    background-color: #203d37;
+    height: 700px;
+}
+.manageBar h1{
+    text-align: center;
+}
+.barLink a{
+    margin-left: 80px;
+    /* text-align: center; */
+}
+.manageBar h1, p{
+    color: white;
+}
+.manageBar a:hover{
+    text-decoration: none;
+    background-color:#2d524a;
+    padding: 5px;
+}
+.filled{
+    color: white;
+    margin-right: 10px;
+    margin-top: 5px;
+    width: 30px;
+}

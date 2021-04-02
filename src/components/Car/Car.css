@@ -1,0 +1,34 @@
+.product-div .product-card{
+    border: none;
+    border-radius: 10px;
+}
+.product-card a{
+    background-color: #ff6e40;
+    width: 110px;
+    height: 40px;
+    font-size: 15px;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    text-align: center;
+}
+.product-card a:hover{
+    background-color: #ff6e40;
+    text-decoration: none;
+    color: white;
+}
+.title{
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+}
+.price{
+    font-size: 25px;
+    font-weight: 700;
+    color: #ff6e40;
+}
+@media only screen and (max-width: 600px) {
+    .product-div{
+        margin-left: 65px;
+    }
+}
