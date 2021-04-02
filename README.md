@@ -2,7 +2,7 @@
 
 # This is a e-commerce site for buying car.
 
-The features coding:
+The features of coding:
 
 * Routing
 * Conditional rendering
