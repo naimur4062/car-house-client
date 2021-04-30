@@ -1,4 +1,4 @@
-# Welcome my site. This is my 10th-assignment of programming hero's course.
+# Welcome my site. This is a full stack website.
 
 # This is a e-commerce site for buying car.
 
